@@ -1,11 +1,14 @@
 # Code Refactor Starter Code
 
-This site was designed to help me to understand and code HTML5, CSS and Git. During this challenge I was tasked with refactoring existing code to bring it up to a more accessible standard.
+This site was designed to help me to understand and code HTML5, CSS and Git. During this challenge I was tasked with refactoring existing code to bring it up to a more accessible standard.  I learned the importance of clean code and while updating the site was able to remove a number of duplicate css rules. 
 
-
-I learned the importance of clean code and while updating the site was able to remove a number of duplicate css rules. Overall this was a fun project and really helped sharpen my skills as a developer.
-
-
+Acceptance Criteria
+Title element is concise and descriptive
+Proper usage of semantic HTML elements
+Logical structure of HTML elements independent of styling and positioning
+Image elements contain accessible alt attributes
+Heading attributes fall in sequential order
+The client has requested a landing page that is optimized for search engines and follows accessibility standards.
 
 
 Work Completed
