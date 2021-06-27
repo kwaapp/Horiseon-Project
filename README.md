@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-This site was designed to help me to understand and code HTML5, CSS and Git. During this challenge I was tasked with refactoring existing code to bring it up to a more accessible standard.  I learned the importance of clean code and while updating the site was able to remove a number of duplicate css rules. 
+ During this challenge I was tasked with refactoring existing code to bring it up to a more accessible standard.  I learned the importance of clean code and  updated the site to remove a redundant code. 
 
 Acceptance Criteria
 Title element is concise and descriptive
